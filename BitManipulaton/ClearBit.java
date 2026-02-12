@@ -1,7 +1,7 @@
 package BitManipulaton;
 import java.util.*;
 
-public class UpdateBit {
+public class ClearBit {
     public static void main(String args[]){
         System.out.println("-----| Update Bit |-----");
         Scanner sc = new Scanner(System.in);
